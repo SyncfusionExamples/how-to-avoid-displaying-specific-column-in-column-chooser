@@ -2,7 +2,7 @@
 
 This example illustrates how to avoid displaying specific columns from displaying in the column chooser
 
-Columns visibility in the SfDataGrid can be changed at runtime by using the ColumnChooserPopup or ColumnChooser control. By default, header text of all the columns in the DataGrid will be displayed in the ColumnChooser with checkboxes, we can uncheck/check those checkboxes to remove/add columns respectively. 
+Columns visibility in the [WinForms DataGrid](https://www.syncfusion.com/winforms-ui-controls/datagrid) (SfDataGrid) can be changed at runtime by using the [ColumnChooserPopup](https://help.syncfusion.com/cr/windowsforms/Syncfusion.WinForms.DataGrid.Interactivity.ColumnChooserPopup.html) or [ColumnChooser](https://help.syncfusion.com/cr/windowsforms/Syncfusion.WinForms.DataGrid.Interactivity.ColumnChooser.html) control. By default, header text of all the columns in the DataGrid will be displayed in the ColumnChooser with checkboxes, we can uncheck/check those checkboxes to remove/add columns respectively. 
 You can restrict some specific columns from displaying in the column chooser, so that those columns cannot be removed from the SfDataGrid.  This can be achieved by creating custom ColumnChooser and ColumnChooserPopup.
 
 ```c#
@@ -85,6 +85,8 @@ public class ColumnChooserExt : Syncfusion.WinForms.DataGrid.Interactivity.Colum
 ```
 
 ![Avoid displaying specific columns from displaying in the column chooser](ColumnChooser_Image.png)
+
+Take a moment to peruse the [WinForms DataGrid - ColumnChooser](https://help.syncfusion.com/windowsforms/datagrid/interactivefeatures#column-chooser) documentation, where you can find about Column Chooser, with code examples.
 
 ## Requirements to run the demo
 Visual Studio 2015 and above versions
