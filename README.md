@@ -86,7 +86,7 @@ public class ColumnChooserExt : Syncfusion.WinForms.DataGrid.Interactivity.Colum
 
 ![Avoid displaying specific columns from displaying in the column chooser](ColumnChooser_Image.png)
 
-Take a moment to peruse the [WinForms DataGrid_ColumnChooser](https://help.syncfusion.com/windowsforms/datagrid/interactivefeatures#column-chooser) documentation, where you can find about Column Chooser, with code examples.
+Take a moment to peruse the [WinForms DataGrid - ColumnChooser](https://help.syncfusion.com/windowsforms/datagrid/interactivefeatures#column-chooser) documentation, where you can find about Column Chooser, with code examples.
 
 ## Requirements to run the demo
 Visual Studio 2015 and above versions
